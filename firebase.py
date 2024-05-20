@@ -1,10 +1,10 @@
 import pyrebase
 config = {
-  "apiKey": "AIzaSyCCHb56XahmBYrbSh_jR1dhogZyav6muKg",
-  "authDomain": "project-cab30.firebaseapp.com",
-  "databaseURL": "https://project-cab30-default-rtdb.firebaseio.com",
-  "projectId": "project-cab30",
-  "storageBucket": "project-cab30.appspot.com",
+  "apiKey": "",
+  "authDomain": "",
+  "databaseURL": "",
+  "projectId": "",
+  "storageBucket": "",
   "serviceAccount": "serviceAccountKey.json",
 }
 
